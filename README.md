@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Matthew
 ## 🎈 Welcome!
 👋 Hey, I'm Matthew, a software engineer with a passion for elegant solutions. Explore my diverse projects and let's code together!
+## 👉 Checkout my [GitHub Page](https://matthewaerose.github.io)
 <h2> 🚀 &nbsp;A few things I've used!<br>
 <h3> 🦜 &nbsp;Languages<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="rust logo" width="45" height="45"; />
