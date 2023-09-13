@@ -21,7 +21,7 @@ My bread and butter is creating elegant solutions, debugging gnarly problems, an
 </p>
 
 <p align="center">
-👉<a href="matthewaerose.github.io">Github Page</a>👈
+👉<a href="https://matthewaerose.github.io">Github Page</a>👈
 </p>
 
 ---
