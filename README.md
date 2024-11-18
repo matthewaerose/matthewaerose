@@ -17,7 +17,7 @@ Hi there, I'm Matthew.
 Software Engineer! Started in DoD and moved to private SaaS.
 </p>
 <p align="center">
-My bread and butter is creating elegant solutions, debugging gnarly problems, and being able to talk about why it is important.
+👋 Hi, I’m Matthew Rose, a passionate technologist specializing in command-line tools, infrastructure automation, and innovative solutions for modern computing. I enjoy exploring tools like Terraform and Python, sharing insights through blogs, and contributing to the open-source community. Let’s connect and collaborate!
 </p>
 
 <p align="center">
